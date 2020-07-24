@@ -1,0 +1,2 @@
+# code.properties
+personal blog 
