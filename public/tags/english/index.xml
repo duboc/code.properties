@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>english on Duboc&#39;s personal blog</title>
+    <link>https://code.properties/tags/english/</link>
+    <description>Recent content in english on Duboc&#39;s personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Fri, 24 Jul 2020 19:43:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://code.properties/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Off with me</title>
+      <link>https://code.properties/blog/first-post/</link>
+      <pubDate>Fri, 24 Jul 2020 19:43:29 +0000</pubDate>
+      
+      <guid>https://code.properties/blog/first-post/</guid>
+      <description>Finally I had to get this blog out of my chest. I don&amp;rsquo;t know why it took so long for me to do it, but I believe this is it, I finally did it and I&amp;rsquo;m not going back.
+Impostor Syndrome is something that always kept me from writing something or having a personal blog, but I have to overcome this fear.
+This is my hello world.</description>
+    </item>
+    
+  </channel>
+</rss>

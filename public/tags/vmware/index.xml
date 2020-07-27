@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vmware on Duboc&#39;s personal blog</title>
+    <link>https://code.properties/tags/vmware/</link>
+    <description>Recent content in vmware on Duboc&#39;s personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Fri, 24 Jul 2020 23:49:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://code.properties/tags/vmware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PowerBlocks - Uma série de vídeos sobre vRealize</title>
+      <link>https://code.properties/blog/powerblocks/</link>
+      <pubDate>Fri, 24 Jul 2020 23:49:08 +0000</pubDate>
+      
+      <guid>https://code.properties/blog/powerblocks/</guid>
+      <description>Fala galera!
+O time de Engenharia da VMware criou um conteúdo prático e simplificado, voltado para usuários do vRealize Operations e seus desafios de gerenciamento e capacidade de ambientes vSphere, e agora estamos promovendo uma série de webinar super curtos de 30 minutos para repassar esse conteúdo.
+É o PowerBlocks e vamos ter um novo bloco a cada 15 dias, toda Sexta-feira, num horário não tão cedo porque ninguém merece acordar as 8h da madrugada(eu não iria nem participa), e eu gostaria de convidá-los a participar!</description>
+    </item>
+    
+  </channel>
+</rss>
